@@ -1,11 +1,13 @@
 enums/StateEnum.class
 enums/OperationEnum.class
+exceptions/Error$ErrorBuilder.class
+utils/StringUtil.class
 utils/ConvertUtil.class
 enums/TableEnum.class
 crypto/Cryptography.class
 interfaces/HttpAdapter.class
+exceptions/Error.class
 jwt/JwtService.class
-pagination/ResultQuery$ResultQueryBuilder.class
 messages/MessagePersistence.class
 utils/DateUtil.class
 utils/JsonUtil.class

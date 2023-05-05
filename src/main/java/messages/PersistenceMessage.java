@@ -7,7 +7,7 @@ import lombok.*;
 @Getter
 @NoArgsConstructor
 @Setter
-public class MessagePersistence<T> {
+public class PersistenceMessage<T> {
     private char operation;
     private String tableName;
     private T message;
